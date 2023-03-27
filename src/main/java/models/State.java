@@ -1,5 +1,5 @@
 package models;
-import resources.DBConsts;
+import util.DBConsts;
 import javax.persistence.*;
 
 @Entity

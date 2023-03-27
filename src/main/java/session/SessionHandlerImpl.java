@@ -1,11 +1,11 @@
 package session;
+
 import java.util.Arrays;
 import java.util.List;
 
 import session.*;
 import org.hibernate.SessionFactory;
 import org.hibernate.Session;
-import org.hibernate.Query;
 
 public class SessionHandlerImpl implements SessionHandler {
     private SessionFactory sessionFactory = null;

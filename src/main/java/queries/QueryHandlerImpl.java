@@ -4,8 +4,7 @@ import java.util.List;
 import java.util.ArrayList;
 
 import session.SessionHandler;
-import resources.DBConsts;
-import models.*;
+import util.DBConsts;
 
 public class QueryHandlerImpl implements QueryHandler {
     SessionHandler sessionHandler;

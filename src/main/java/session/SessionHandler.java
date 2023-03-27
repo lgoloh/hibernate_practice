@@ -1,4 +1,5 @@
 package session;
+
 import java.util.List;
 
 public interface SessionHandler {

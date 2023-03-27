@@ -1,4 +1,5 @@
 package session;
+
 import org.hibernate.SessionFactory;
 import org.hibernate.boot.MetadataSources;
 import org.hibernate.boot.registry.StandardServiceRegistry;
@@ -18,6 +19,7 @@ public class SessionFactoryWrapper {
 			.build();
         try {
             sessionFactory = new MetadataSources( registry ).buildMetadata().buildSessionFactory();
+            System.out.print(sessionFactory == null);
         } catch (Exception e) {
                 // The registry would be destroyed by the SessionFactory, but we had trouble building the SessionFactory
                 // so destroy it manually.

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="RemoteTargetsManager">
+    <option name="projectDefaultTargetUuid" value="bd536234-11e1-422a-a431-05c489518993" />
+    <targets>
+      <target name="lg293@vcm-30710.vm.duke.edu:22" type="ssh/sftp" uuid="bd536234-11e1-422a-a431-05c489518993">
+        <config>
+          <option name="projectRootOnTarget" value="/home/lg293/hibernate_practice" />
+          <option name="serverName" value="lg293@vcm-30710.vm.duke.edu:22 password" />
+          <option name="useRsync" value="true" />
+        </config>
+        <ContributedStateBase type="JavaLanguageRuntime">
+          <config>
+            <option name="javaVersionString" value="16.0.1" />
+          </config>
+        </ContributedStateBase>
+      </target>
+    </targets>
+  </component>
+</project>

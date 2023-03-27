@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="src:out:production:Project4_extra:out:production:Project4_extra:out:production:Project4_extra:out:production:Project4_extra:out:production:Project4_extra:out:production:Project4_extra:out:production:Project4_extra:out:production:Project4_extra:out:production:Project4_extra:out:production:Project4_extra:out:production:Project4_extra:out:production:Project4_extra:main:java:resources:hibernate.cfg.xml/Hibernate" uuid="9ce20932-4495-4fd1-a864-f94806e4120a">
+      <driver-ref>mysql</driver-ref>
+      <synchronize>true</synchronize>
+      <imported>true</imported>
+      <remarks>Hibernate
+
+/Users/lezli/Documents/ECE_650/Project4/sql_with_hibernate/hibernate_practice/src/out/production/Project4_extra/out/production/Project4_extra/out/production/Project4_extra/out/production/Project4_extra/out/production/Project4_extra/out/production/Project4_extra/out/production/Project4_extra/out/production/Project4_extra/out/production/Project4_extra/out/production/Project4_extra/out/production/Project4_extra/out/production/Project4_extra/main/java/resources/hibernate.cfg.xml</remarks>
+      <jdbc-driver>com.mysql.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:psql://vcm-30710.vm.duke.edu/postgres</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
+    <data-source source="LOCAL" name="src:out:production:Project4_extra:out:production:Project4_extra:out:production:Project4_extra:out:production:Project4_extra:out:production:Project4_extra:out:production:Project4_extra:out:production:Project4_extra:out:production:Project4_extra:out:production:Project4_extra:out:production:Project4_extra:out:production:Project4_extra:main:java:resources:hibernate.cfg.xml/Hibernate" uuid="ff38dc86-1e00-4810-99e7-09426471bd2a">
+      <driver-ref>mysql</driver-ref>
+      <synchronize>true</synchronize>
+      <imported>true</imported>
+      <remarks>Hibernate
+
+/Users/lezli/Documents/ECE_650/Project4/sql_with_hibernate/hibernate_practice/src/out/production/Project4_extra/out/production/Project4_extra/out/production/Project4_extra/out/production/Project4_extra/out/production/Project4_extra/out/production/Project4_extra/out/production/Project4_extra/out/production/Project4_extra/out/production/Project4_extra/out/production/Project4_extra/out/production/Project4_extra/main/java/resources/hibernate.cfg.xml</remarks>
+      <jdbc-driver>com.mysql.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:psql://vcm-30710.vm.duke.edu/postgres</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
+    <data-source source="LOCAL" name="src:out:production:Project4_extra:out:production:Project4_extra:out:production:Project4_extra:out:production:Project4_extra:out:production:Project4_extra:out:production:Project4_extra:out:production:Project4_extra:main:java:resources:hibernate.cfg.xml/Hibernate" uuid="311c4b18-04fb-4925-8c93-ed20b5f227d0">
+      <driver-ref>mysql</driver-ref>
+      <synchronize>true</synchronize>
+      <imported>true</imported>
+      <remarks>Hibernate
+
+/Users/lezli/Documents/ECE_650/Project4/sql_with_hibernate/hibernate_practice/src/out/production/Project4_extra/out/production/Project4_extra/out/production/Project4_extra/out/production/Project4_extra/out/production/Project4_extra/out/production/Project4_extra/out/production/Project4_extra/main/java/resources/hibernate.cfg.xml</remarks>
+      <jdbc-driver>com.mysql.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:psql://vcm-30710.vm.duke.edu/postgres</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
+    <data-source source="LOCAL" name="src:out:production:Project4_extra:out:production:Project4_extra:out:production:Project4_extra:out:production:Project4_extra:out:production:Project4_extra:out:production:Project4_extra:out:production:Project4_extra:out:production:Project4_extra:out:production:Project4_extra:out:production:Project4_extra:main:java:resources:hibernate.cfg.xml/Hibernate" uuid="c0aa7116-abe9-4734-b8da-b1a4f6f7e499">
+      <driver-ref>mysql</driver-ref>
+      <synchronize>true</synchronize>
+      <imported>true</imported>
+      <remarks>Hibernate
+
+/Users/lezli/Documents/ECE_650/Project4/sql_with_hibernate/hibernate_practice/src/out/production/Project4_extra/out/production/Project4_extra/out/production/Project4_extra/out/production/Project4_extra/out/production/Project4_extra/out/production/Project4_extra/out/production/Project4_extra/out/production/Project4_extra/out/production/Project4_extra/out/production/Project4_extra/main/java/resources/hibernate.cfg.xml</remarks>
+      <jdbc-driver>com.mysql.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:psql://vcm-30710.vm.duke.edu/postgres</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
+    <data-source source="LOCAL" name="src:out:production:Project4_extra:out:production:Project4_extra:out:production:Project4_extra:out:production:Project4_extra:out:production:Project4_extra:out:production:Project4_extra:out:production:Project4_extra:out:production:Project4_extra:out:production:Project4_extra:out:production:Project4_extra:out:production:Project4_extra:out:production:Project4_extra:out:production:Project4_extra:out:production:Project4_extra:out:production:Project4_extra:main:java:resources:hibernate.cfg.xml/Hibernate" uuid="e75a9be1-e63c-4b6a-9b3d-856d2210e530">
+      <driver-ref>mysql</driver-ref>
+      <synchronize>true</synchronize>
+      <imported>true</imported>
+      <remarks>Hibernate
+
+/Users/lezli/Documents/ECE_650/Project4/sql_with_hibernate/hibernate_practice/src/out/production/Project4_extra/out/production/Project4_extra/out/production/Project4_extra/out/production/Project4_extra/out/production/Project4_extra/out/production/Project4_extra/out/production/Project4_extra/out/production/Project4_extra/out/production/Project4_extra/out/production/Project4_extra/out/production/Project4_extra/out/production/Project4_extra/out/production/Project4_extra/out/production/Project4_extra/out/production/Project4_extra/main/java/resources/hibernate.cfg.xml</remarks>
+      <jdbc-driver>com.mysql.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:psql://vcm-30710.vm.duke.edu/postgres</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
+    <data-source source="LOCAL" name="src:out:production:Project4_extra:out:production:Project4_extra:out:production:Project4_extra:out:production:Project4_extra:out:production:Project4_extra:out:production:Project4_extra:out:production:Project4_extra:out:production:Project4_extra:out:production:Project4_extra:main:java:resources:hibernate.cfg.xml/Hibernate" uuid="c33082d4-6b98-4e0a-b24c-55904c01b694">
+      <driver-ref>mysql</driver-ref>
+      <synchronize>true</synchronize>
+      <imported>true</imported>
+      <remarks>Hibernate
+
+/Users/lezli/Documents/ECE_650/Project4/sql_with_hibernate/hibernate_practice/src/out/production/Project4_extra/out/production/Project4_extra/out/production/Project4_extra/out/production/Project4_extra/out/production/Project4_extra/out/production/Project4_extra/out/production/Project4_extra/out/production/Project4_extra/out/production/Project4_extra/main/java/resources/hibernate.cfg.xml</remarks>
+      <jdbc-driver>com.mysql.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:psql://vcm-30710.vm.duke.edu/postgres</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
+    <data-source source="LOCAL" name="src:out:production:Project4_extra:out:production:Project4_extra:out:production:Project4_extra:out:production:Project4_extra:out:production:Project4_extra:out:production:Project4_extra:out:production:Project4_extra:out:production:Project4_extra:out:production:Project4_extra:out:production:Project4_extra:out:production:Project4_extra:out:production:Project4_extra:out:production:Project4_extra:out:production:Project4_extra:out:production:Project4_extra:out:production:Project4_extra:out:production:Project4_extra:out:production:Project4_extra:out:production:Project4_extra:main:java:resources:hibernate.cfg.xml/Hibernate" uuid="48dc5607-2d87-4d1e-b0ed-6032f913bf62">
+      <driver-ref>mysql</driver-ref>
+      <synchronize>true</synchronize>
+      <imported>true</imported>
+      <remarks>Hibernate
+
+/Users/lezli/Documents/ECE_650/Project4/sql_with_hibernate/hibernate_practice/src/out/production/Project4_extra/out/production/Project4_extra/out/production/Project4_extra/out/production/Project4_extra/out/production/Project4_extra/out/production/Project4_extra/out/production/Project4_extra/out/production/Project4_extra/out/production/Project4_extra/out/production/Project4_extra/out/production/Project4_extra/out/production/Project4_extra/out/production/Project4_extra/out/production/Project4_extra/out/production/Project4_extra/out/production/Project4_extra/out/production/Project4_extra/out/production/Project4_extra/out/production/Project4_extra/main/java/resources/hibernate.cfg.xml</remarks>
+      <jdbc-driver>com.mysql.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:psql://vcm-30710.vm.duke.edu/postgres</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
+    <data-source source="LOCAL" name="src:out:production:Project4_extra:out:production:Project4_extra:main:java:resources:hibernate.cfg.xml/Hibernate" uuid="13669c3b-e550-4fae-adfc-7aa4111876d0">
+      <driver-ref>mysql</driver-ref>
+      <synchronize>true</synchronize>
+      <imported>true</imported>
+      <remarks>Hibernate
+
+/Users/lezli/Documents/ECE_650/Project4/sql_with_hibernate/hibernate_practice/src/out/production/Project4_extra/out/production/Project4_extra/main/java/resources/hibernate.cfg.xml</remarks>
+      <jdbc-driver>com.mysql.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:psql://vcm-30710.vm.duke.edu/postgres</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
+    <data-source source="LOCAL" name="src:out:production:Project4_extra:out:production:Project4_extra:out:production:Project4_extra:out:production:Project4_extra:out:production:Project4_extra:out:production:Project4_extra:out:production:Project4_extra:out:production:Project4_extra:out:production:Project4_extra:out:production:Project4_extra:out:production:Project4_extra:out:production:Project4_extra:out:production:Project4_extra:out:production:Project4_extra:out:production:Project4_extra:out:production:Project4_extra:main:java:resources:hibernate.cfg.xml/Hibernate" uuid="53bbcb21-f83b-4d7d-a3ed-ddc5423df243">
+      <driver-ref>mysql</driver-ref>
+      <synchronize>true</synchronize>
+      <imported>true</imported>
+      <remarks>Hibernate
+
+/Users/lezli/Documents/ECE_650/Project4/sql_with_hibernate/hibernate_practice/src/out/production/Project4_extra/out/production/Project4_extra/out/production/Project4_extra/out/production/Project4_extra/out/production/Project4_extra/out/production/Project4_extra/out/production/Project4_extra/out/production/Project4_extra/out/production/Project4_extra/out/production/Project4_extra/out/production/Project4_extra/out/production/Project4_extra/out/production/Project4_extra/out/production/Project4_extra/out/production/Project4_extra/out/production/Project4_extra/main/java/resources/hibernate.cfg.xml</remarks>
+      <jdbc-driver>com.mysql.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:psql://vcm-30710.vm.duke.edu/postgres</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
+    <data-source source="LOCAL" name="src:out:production:Project4_extra:out:production:Project4_extra:out:production:Project4_extra:out:production:Project4_extra:out:production:Project4_extra:out:production:Project4_extra:main:java:resources:hibernate.cfg.xml/Hibernate" uuid="f156d1bf-ed5d-443b-913f-aa4175dc9ff9">
+      <driver-ref>mysql</driver-ref>
+      <synchronize>true</synchronize>
+      <imported>true</imported>
+      <remarks>Hibernate
+
+/Users/lezli/Documents/ECE_650/Project4/sql_with_hibernate/hibernate_practice/src/out/production/Project4_extra/out/production/Project4_extra/out/production/Project4_extra/out/production/Project4_extra/out/production/Project4_extra/out/production/Project4_extra/main/java/resources/hibernate.cfg.xml</remarks>
+      <jdbc-driver>com.mysql.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:psql://vcm-30710.vm.duke.edu/postgres</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
+    <data-source source="LOCAL" name="src:out:production:Project4_extra:out:production:Project4_extra:out:production:Project4_extra:out:production:Project4_extra:out:production:Project4_extra:out:production:Project4_extra:out:production:Project4_extra:out:production:Project4_extra:out:production:Project4_extra:out:production:Project4_extra:out:production:Project4_extra:out:production:Project4_extra:out:production:Project4_extra:main:java:resources:hibernate.cfg.xml/Hibernate" uuid="dd315d2d-1723-4508-b0e0-327ca399e7a0">
+      <driver-ref>mysql</driver-ref>
+      <synchronize>true</synchronize>
+      <imported>true</imported>
+      <remarks>Hibernate
+
+/Users/lezli/Documents/ECE_650/Project4/sql_with_hibernate/hibernate_practice/src/out/production/Project4_extra/out/production/Project4_extra/out/production/Project4_extra/out/production/Project4_extra/out/production/Project4_extra/out/production/Project4_extra/out/production/Project4_extra/out/production/Project4_extra/out/production/Project4_extra/out/production/Project4_extra/out/production/Project4_extra/out/production/Project4_extra/out/production/Project4_extra/main/java/resources/hibernate.cfg.xml</remarks>
+      <jdbc-driver>com.mysql.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:psql://vcm-30710.vm.duke.edu/postgres</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
+    <data-source source="LOCAL" name="src:out:production:Project4_extra:main:java:resources:hibernate.cfg.xml/Hibernate" uuid="10b548a5-ca42-42db-acf2-09e48e6d940d">
+      <driver-ref>mysql</driver-ref>
+      <synchronize>true</synchronize>
+      <imported>true</imported>
+      <remarks>Hibernate
+
+/Users/lezli/Documents/ECE_650/Project4/sql_with_hibernate/hibernate_practice/src/out/production/Project4_extra/main/java/resources/hibernate.cfg.xml</remarks>
+      <jdbc-driver>com.mysql.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:psql://vcm-30710.vm.duke.edu/postgres</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
+    <data-source source="LOCAL" name="src:out:production:Project4_extra:out:production:Project4_extra:out:production:Project4_extra:out:production:Project4_extra:out:production:Project4_extra:out:production:Project4_extra:out:production:Project4_extra:out:production:Project4_extra:main:java:resources:hibernate.cfg.xml/Hibernate" uuid="781cd30b-e69c-4412-8c81-e0489ffb8d76">
+      <driver-ref>mysql</driver-ref>
+      <synchronize>true</synchronize>
+      <imported>true</imported>
+      <remarks>Hibernate
+
+/Users/lezli/Documents/ECE_650/Project4/sql_with_hibernate/hibernate_practice/src/out/production/Project4_extra/out/production/Project4_extra/out/production/Project4_extra/out/production/Project4_extra/out/production/Project4_extra/out/production/Project4_extra/out/production/Project4_extra/out/production/Project4_extra/main/java/resources/hibernate.cfg.xml</remarks>
+      <jdbc-driver>com.mysql.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:psql://vcm-30710.vm.duke.edu/postgres</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
+    <data-source source="LOCAL" name="src:out:production:Project4_extra:out:production:Project4_extra:out:production:Project4_extra:out:production:Project4_extra:out:production:Project4_extra:out:production:Project4_extra:out:production:Project4_extra:out:production:Project4_extra:out:production:Project4_extra:out:production:Project4_extra:out:production:Project4_extra:out:production:Project4_extra:out:production:Project4_extra:out:production:Project4_extra:out:production:Project4_extra:out:production:Project4_extra:out:production:Project4_extra:out:production:Project4_extra:out:production:Project4_extra:out:production:Project4_extra:main:java:resources:hibernate.cfg.xml/Hibernate" uuid="e084b1d5-8dbf-46fe-a463-909df03f284c">
+      <driver-ref>mysql</driver-ref>
+      <synchronize>true</synchronize>
+      <imported>true</imported>
+      <remarks>Hibernate
+
+/Users/lezli/Documents/ECE_650/Project4/sql_with_hibernate/hibernate_practice/src/out/production/Project4_extra/out/production/Project4_extra/out/production/Project4_extra/out/production/Project4_extra/out/production/Project4_extra/out/production/Project4_extra/out/production/Project4_extra/out/production/Project4_extra/out/production/Project4_extra/out/production/Project4_extra/out/production/Project4_extra/out/production/Project4_extra/out/production/Project4_extra/out/production/Project4_extra/out/production/Project4_extra/out/production/Project4_extra/out/production/Project4_extra/out/production/Project4_extra/out/production/Project4_extra/out/production/Project4_extra/main/java/resources/hibernate.cfg.xml</remarks>
+      <jdbc-driver>com.mysql.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:psql://vcm-30710.vm.duke.edu/postgres</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
+    <data-source source="LOCAL" name="src:main:java:resources:hibernate.cfg.xml/Hibernate" uuid="05a2b268-eddb-40a8-a581-288f93379a0a">
+      <driver-ref>mysql</driver-ref>
+      <synchronize>true</synchronize>
+      <imported>true</imported>
+      <remarks>Hibernate
+
+/Users/lezli/Documents/ECE_650/Project4/sql_with_hibernate/hibernate_practice/src/main/java/resources/hibernate.cfg.xml</remarks>
+      <jdbc-driver>com.mysql.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:psql://vcm-30710.vm.duke.edu/postgres</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
+    <data-source source="LOCAL" name="src:out:production:Project4_extra:out:production:Project4_extra:out:production:Project4_extra:main:java:resources:hibernate.cfg.xml/Hibernate" uuid="205d3e44-1c64-446a-bff7-670126bc6343">
+      <driver-ref>mysql</driver-ref>
+      <synchronize>true</synchronize>
+      <imported>true</imported>
+      <remarks>Hibernate
+
+/Users/lezli/Documents/ECE_650/Project4/sql_with_hibernate/hibernate_practice/src/out/production/Project4_extra/out/production/Project4_extra/out/production/Project4_extra/main/java/resources/hibernate.cfg.xml</remarks>
+      <jdbc-driver>com.mysql.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:psql://vcm-30710.vm.duke.edu/postgres</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
+    <data-source source="LOCAL" name="src:out:production:Project4_extra:out:production:Project4_extra:out:production:Project4_extra:out:production:Project4_extra:main:java:resources:hibernate.cfg.xml/Hibernate" uuid="4848a8cd-a3cb-4429-978f-4af6b24002d0">
+      <driver-ref>mysql</driver-ref>
+      <synchronize>true</synchronize>
+      <imported>true</imported>
+      <remarks>Hibernate
+
+/Users/lezli/Documents/ECE_650/Project4/sql_with_hibernate/hibernate_practice/src/out/production/Project4_extra/out/production/Project4_extra/out/production/Project4_extra/out/production/Project4_extra/main/java/resources/hibernate.cfg.xml</remarks>
+      <jdbc-driver>com.mysql.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:psql://vcm-30710.vm.duke.edu/postgres</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
+    <data-source source="LOCAL" name="src:out:production:Project4_extra:out:production:Project4_extra:out:production:Project4_extra:out:production:Project4_extra:out:production:Project4_extra:out:production:Project4_extra:out:production:Project4_extra:out:production:Project4_extra:out:production:Project4_extra:out:production:Project4_extra:out:production:Project4_extra:out:production:Project4_extra:out:production:Project4_extra:out:production:Project4_extra:out:production:Project4_extra:out:production:Project4_extra:out:production:Project4_extra:main:java:resources:hibernate.cfg.xml/Hibernate" uuid="851c41e6-cd20-4ee4-90d3-16ca0c7ea38e">
+      <driver-ref>mysql</driver-ref>
+      <synchronize>true</synchronize>
+      <imported>true</imported>
+      <remarks>Hibernate
+
+/Users/lezli/Documents/ECE_650/Project4/sql_with_hibernate/hibernate_practice/src/out/production/Project4_extra/out/production/Project4_extra/out/production/Project4_extra/out/production/Project4_extra/out/production/Project4_extra/out/production/Project4_extra/out/production/Project4_extra/out/production/Project4_extra/out/production/Project4_extra/out/production/Project4_extra/out/production/Project4_extra/out/production/Project4_extra/out/production/Project4_extra/out/production/Project4_extra/out/production/Project4_extra/out/production/Project4_extra/out/production/Project4_extra/main/java/resources/hibernate.cfg.xml</remarks>
+      <jdbc-driver>com.mysql.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:psql://vcm-30710.vm.duke.edu/postgres</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
+    <data-source source="LOCAL" name="src:out:production:Project4_extra:out:production:Project4_extra:out:production:Project4_extra:out:production:Project4_extra:out:production:Project4_extra:out:production:Project4_extra:out:production:Project4_extra:out:production:Project4_extra:out:production:Project4_extra:out:production:Project4_extra:out:production:Project4_extra:out:production:Project4_extra:out:production:Project4_extra:out:production:Project4_extra:out:production:Project4_extra:out:production:Project4_extra:out:production:Project4_extra:out:production:Project4_extra:main:java:resources:hibernate.cfg.xml/Hibernate" uuid="e3951cc6-5d8c-401a-bc5f-8e5d5b7962ed">
+      <driver-ref>mysql</driver-ref>
+      <synchronize>true</synchronize>
+      <imported>true</imported>
+      <remarks>Hibernate
+
+/Users/lezli/Documents/ECE_650/Project4/sql_with_hibernate/hibernate_practice/src/out/production/Project4_extra/out/production/Project4_extra/out/production/Project4_extra/out/production/Project4_extra/out/production/Project4_extra/out/production/Project4_extra/out/production/Project4_extra/out/production/Project4_extra/out/production/Project4_extra/out/production/Project4_extra/out/production/Project4_extra/out/production/Project4_extra/out/production/Project4_extra/out/production/Project4_extra/out/production/Project4_extra/out/production/Project4_extra/out/production/Project4_extra/out/production/Project4_extra/main/java/resources/hibernate.cfg.xml</remarks>
+      <jdbc-driver>com.mysql.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:psql://vcm-30710.vm.duke.edu/postgres</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
+    <data-source source="LOCAL" name="src:out:production:Project4_extra:out:production:Project4_extra:out:production:Project4_extra:out:production:Project4_extra:out:production:Project4_extra:main:java:resources:hibernate.cfg.xml/Hibernate" uuid="32f15174-f644-47f1-b848-9ffb67699123">
+      <driver-ref>mysql</driver-ref>
+      <synchronize>true</synchronize>
+      <imported>true</imported>
+      <remarks>Hibernate
+
+/Users/lezli/Documents/ECE_650/Project4/sql_with_hibernate/hibernate_practice/src/out/production/Project4_extra/out/production/Project4_extra/out/production/Project4_extra/out/production/Project4_extra/out/production/Project4_extra/main/java/resources/hibernate.cfg.xml</remarks>
+      <jdbc-driver>com.mysql.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:psql://vcm-30710.vm.duke.edu/postgres</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
+    <data-source source="LOCAL" name="src:out:production:Project4_extra:out:production:Project4_extra:out:production:Project4_extra:out:production:Project4_extra:out:production:Project4_extra:out:production:Project4_extra:out:production:Project4_extra:out:production:Project4_extra:out:production:Project4_extra:out:production:Project4_extra:out:production:Project4_extra:out:production:Project4_extra:out:production:Project4_extra:out:production:Project4_extra:main:java:resources:hibernate.cfg.xml/Hibernate" uuid="bb18e949-60d9-4f62-b82a-1194b4e9fa08">
+      <driver-ref>mysql</driver-ref>
+      <synchronize>true</synchronize>
+      <imported>true</imported>
+      <remarks>Hibernate
+
+/Users/lezli/Documents/ECE_650/Project4/sql_with_hibernate/hibernate_practice/src/out/production/Project4_extra/out/production/Project4_extra/out/production/Project4_extra/out/production/Project4_extra/out/production/Project4_extra/out/production/Project4_extra/out/production/Project4_extra/out/production/Project4_extra/out/production/Project4_extra/out/production/Project4_extra/out/production/Project4_extra/out/production/Project4_extra/out/production/Project4_extra/out/production/Project4_extra/main/java/resources/hibernate.cfg.xml</remarks>
+      <jdbc-driver>com.mysql.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:psql://vcm-30710.vm.duke.edu/ACC_BBALL</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
+  </component>
+</project>
